@@ -845,8 +845,11 @@ This implementation demonstrates:
 
 📧 **Primary Email**: stephenodhiambo008@gmail.com  
 📧 **Alternate Email**: stephenatito1994@gmail.com
+
 📱 **Primary Phone**: +254-701453230  
 📱 **Alternate Phone**: +254-102015805
+
+📧 **LIVE LINK**: https://atito-materials-sche-qk4u.bolt.host/ 
 
 
 *This project is built with ❤️ for the Kenyan construction industry.*  
