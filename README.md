@@ -849,7 +849,7 @@ This implementation demonstrates:
 📱 **Primary Phone**: +254-701453230  
 📱 **Alternate Phone**: +254-102015805
 
-📧 **LIVE ATITO-QS-APP LINK**: https://atito-materials-sche-qk4u.bolt.host/ 
+📧 **LIVE ATITO-QS-APP LINK**: https://blank-duplicated-hkzf.bolt.host 
 
 📧 **LIVE PITCH DECK LINK**: https://www.canva.com/design/DAG4eKbL_A8/zYEJ_1C342QghFT5cXSGzA/view?utm_content=DAG4eKbL_A8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf4ad13cb1a
 
