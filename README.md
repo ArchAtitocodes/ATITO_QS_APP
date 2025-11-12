@@ -842,6 +842,7 @@ This implementation demonstrates:
 
 **Created by: Eng. STEPHEN ODHIAMBO**  
 *Civil Engineer & AI Engineer*
+Github-Repo Link: https://github.com/ArchAtitocodes/ATITO_QS_APP.git
 
 📧 **Primary Email**: stephenodhiambo008@gmail.com  
 📧 **Alternate Email**: stephenatito1994@gmail.com
