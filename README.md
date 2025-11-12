@@ -851,7 +851,7 @@ This implementation demonstrates:
 
 📧 **LIVE ATITO-QS-APP LINK**: https://blank-duplicated-hkzf.bolt.host 
 
-📧 **LIVE PITCH DECK LINK**: https://www.canva.com/design/DAG4eKbL_A8/zYEJ_1C342QghFT5cXSGzA/view?utm_content=DAG4eKbL_A8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf4ad13cb1a
+📧 **LIVE PITCH DECK LINK**: https://www.canva.com/design/DAG0K3VAa6U/6YmhttuHcdZLEBU23zGCOw/view?utm_content=DAG0K3VAa6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41f26cbf6c
 
 
 *This project is built with ❤️ for the Kenyan construction industry.*  
